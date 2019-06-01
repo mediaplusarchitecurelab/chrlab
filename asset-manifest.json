@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chrlabsite/static/css/main.e9b5a44f.chunk.css",
+    "main.js": "/chrlabsite/static/js/main.e669395b.chunk.js",
+    "main.js.map": "/chrlabsite/static/js/main.e669395b.chunk.js.map",
+    "runtime~main.js": "/chrlabsite/static/js/runtime~main.6f4bc901.js",
+    "runtime~main.js.map": "/chrlabsite/static/js/runtime~main.6f4bc901.js.map",
+    "static/css/2.73b94da4.chunk.css": "/chrlabsite/static/css/2.73b94da4.chunk.css",
+    "static/js/2.ba05769b.chunk.js": "/chrlabsite/static/js/2.ba05769b.chunk.js",
+    "static/js/2.ba05769b.chunk.js.map": "/chrlabsite/static/js/2.ba05769b.chunk.js.map",
+    "index.html": "/chrlabsite/index.html",
+    "precache-manifest.9b285b084ad8042311175e942331893a.js": "/chrlabsite/precache-manifest.9b285b084ad8042311175e942331893a.js",
+    "service-worker.js": "/chrlabsite/service-worker.js",
+    "static/css/2.73b94da4.chunk.css.map": "/chrlabsite/static/css/2.73b94da4.chunk.css.map",
+    "static/css/main.e9b5a44f.chunk.css.map": "/chrlabsite/static/css/main.e9b5a44f.chunk.css.map",
+    "static/media/semantic.min.css": "/chrlabsite/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/chrlabsite/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/chrlabsite/static/media/slick.f97e3bbf.svg"
+  }
+}
