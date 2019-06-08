@@ -103,10 +103,17 @@
 				},
 
 			{
-				"type":"topic",
+				"type":"dropdown",
 				"title":"theory",
 				"title_tw":"理論",
-				"sub":null
+				"sub":[
+					{
+						"type":"button",
+						"title":"particles",
+						"title_tw":"粒子",
+						"sub":null
+					}
+				]
 			},
 
 				{
