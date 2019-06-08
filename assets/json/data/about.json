@@ -4,10 +4,10 @@
 		"title":"about",
 		"title_tw":"關於CFRLab",
 		"pic":[
-			"https://via.placeholder.com/350x350.png",
-			"https://via.placeholder.com/350x350.png",
-			"https://via.placeholder.com/350x350.png",
-			"https://via.placeholder.com/350x350.png"
+			"assets/image/about/about_0.png",
+			"assets/image/about/about_1.png",
+			"assets/image/about/about_2.png",
+			"assets/image/about/about_3.png"
 		],
 		"content":
 			"CFRLab, Computing Fabrication Research Labortory is a education platform, founded on the ideas that design form can serve algrothim, media, space, and activites inspiring surroundings and arising a positive effect on people’s lives."
