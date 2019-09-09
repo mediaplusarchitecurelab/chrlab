@@ -51,9 +51,34 @@
 
 			{
 				"type":"topic",
-				"title":"procedding",
+				"title":"2019",
 				"title_tw":"進行中",
 				"sub":null
+			},
+			{
+				"type":"dropdown",
+				"title":"workshop",
+				"title_tw":"IDF國際工作坊",
+				"sub":[
+					{
+						"type":"button",
+						"title":"introduction",
+						"title_tw":"介紹",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"precedents",
+						"title_tw":"先例",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"preliminary",
+						"title_tw":"工作組",
+						"sub":null
+					}
+				]
 			},
 			{
 				"type":"dropdown",
@@ -62,20 +87,20 @@
 				"sub":[
 					{
 						"type":"button",
-						"title":"teamA",
-						"title_tw":"A組",
+						"title":"霄晗又如組",
+						"title_tw":"霄晗又如組",
 						"sub":null
 					},
 					{
 						"type":"button",
-						"title":"teamB",
-						"title_tw":"B組",
+						"title":"嘉隆組",
+						"title_tw":"嘉隆組",
 						"sub":null
 					},
 					{
 						"type":"button",
-						"title":"teamC",
-						"title_tw":"C組",
+						"title":"承恩君恆組",
+						"title_tw":"承恩君恆組",
 						"sub":null
 					}
 				]
