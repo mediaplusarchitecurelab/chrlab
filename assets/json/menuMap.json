@@ -6,12 +6,6 @@
 		"sub":null
 	},
 	{
-		"type":"button",
-		"title":"schdule",
-		"title_tw":"時程表",
-		"sub":null
-	},
-	{
 		"type":"dropdown",
 		"title":"projects",
 		"title_tw":"作品",
@@ -62,8 +56,8 @@
 				"sub":[
 					{
 						"type":"button",
-						"title":"introduction",
-						"title_tw":"介紹",
+						"title":"ouroboros",
+						"title_tw":"循環法則",
 						"sub":null
 					},
 					{
@@ -85,6 +79,12 @@
 				"title":"2019archi",
 				"title_tw":"2019建築系",
 				"sub":[
+					{
+						"type":"button",
+						"title":"schedule",
+						"title_tw":"工作時間規劃",
+						"sub":null
+					},
 					{
 						"type":"button",
 						"title":"霄晗又如組",

@@ -1,15 +1,10 @@
 [
 	{
 		"type":"lrtab",
+        "filename":"preliminary",
 		"title":"Preliminary Group Works",
 		"title_tw":"工作組",
 		"url":"https://spreadsheets.google.com/feeds/list/11Aky6P_Lkqop50K-NtvweQh_nsWeuR8aX-GIZDci2Hg/5/public/values?alt=json",
-		"pic":[
-            "assets/image/about/about_0.png",
-            "assets/image/about/about_1.png",
-            "assets/image/about/about_2.png",
-            "assets/image/about/about_3.png"
-        ],
         "content":
             "CFRLab, Computing Fabrication Research Labortory is a education platform, founded on the ideas that design form can serve algrothim, media, space, and activites inspiring surroundings and arising a positive effect on people’s lives."
     }
