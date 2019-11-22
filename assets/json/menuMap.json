@@ -137,6 +137,12 @@
 						"title":"particles",
 						"title_tw":"粒子",
 						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"rhinojs",
+						"title_tw":"犀牛插件",
+						"sub":null
 					}
 				]
 			},
