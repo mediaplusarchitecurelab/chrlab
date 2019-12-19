@@ -143,6 +143,12 @@
 						"title":"rhinojs",
 						"title_tw":"犀牛插件",
 						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"prototypingjs",
+						"title_tw":"原型插件",
+						"sub":null
 					}
 				]
 			},
