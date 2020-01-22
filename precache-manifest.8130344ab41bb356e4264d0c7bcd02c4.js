@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c5ee2cad323a4e6cb2b13f1125eccbe",
+    "revision": "0ac8a397b0a1edd4f4a30dead13ee492",
     "url": "/chrlab/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chrlab/static/css/2.745f6293.chunk.css"
   },
   {
-    "revision": "da4ef458025551848225",
+    "revision": "895c9b39a957d2b1d9ec",
     "url": "/chrlab/static/css/main.a4eab131.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chrlab/static/js/2.92bfb01d.chunk.js"
   },
   {
-    "revision": "da4ef458025551848225",
-    "url": "/chrlab/static/js/main.850810d0.chunk.js"
+    "revision": "895c9b39a957d2b1d9ec",
+    "url": "/chrlab/static/js/main.329ad692.chunk.js"
   },
   {
     "revision": "829ae5fa0cf201c9d95c",
