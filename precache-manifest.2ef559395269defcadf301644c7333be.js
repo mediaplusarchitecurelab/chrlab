@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "840124ad7626a88d8858e6b75eb7a68a",
+    "revision": "130c7cb51ebe7494b622789a17110700",
     "url": "/chrlab/index.html"
   },
   {
-    "revision": "9f6b55dc1bea7f04a142",
-    "url": "/chrlab/static/css/2.745f6293.chunk.css"
+    "revision": "4527c9708ecf5958a70f",
+    "url": "/chrlab/static/css/2.b8fc78e4.chunk.css"
   },
   {
-    "revision": "434c908b43fd6d1b21aa",
-    "url": "/chrlab/static/css/main.a4eab131.chunk.css"
+    "revision": "82ffa1a488f5c66a6644",
+    "url": "/chrlab/static/css/main.6eaf7825.chunk.css"
   },
   {
-    "revision": "9f6b55dc1bea7f04a142",
-    "url": "/chrlab/static/js/2.92bfb01d.chunk.js"
+    "revision": "4527c9708ecf5958a70f",
+    "url": "/chrlab/static/js/2.c6b734ec.chunk.js"
   },
   {
-    "revision": "434c908b43fd6d1b21aa",
-    "url": "/chrlab/static/js/main.51d991f8.chunk.js"
+    "revision": "82ffa1a488f5c66a6644",
+    "url": "/chrlab/static/js/main.4f6062c9.chunk.js"
   },
   {
     "revision": "829ae5fa0cf201c9d95c",
