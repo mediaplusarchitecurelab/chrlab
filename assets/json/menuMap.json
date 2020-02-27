@@ -180,7 +180,13 @@
 						"title":"weavingjs",
 						"title_tw":"編織插件",
 						"sub":null
-					}
+					},
+                    {
+                        "type":"button",
+                        "title":"robotarmjs",
+                        "title_tw":"手臂插件",
+                        "sub":null
+                    }
 				]
 			},
 
