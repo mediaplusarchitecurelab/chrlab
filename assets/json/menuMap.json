@@ -35,20 +35,6 @@
 					}
 				]
 			},
-
-			{
-				"type":"divider",
-				"title":null,
-				"title_tw":null,
-				"sub":null
-			},
-
-			{
-				"type":"topic",
-				"title":"2019",
-				"title_tw":"2019",
-				"sub":null
-			},
 			{
 				"type":"dropdown",
 				"title":"2019 ouroboros",
