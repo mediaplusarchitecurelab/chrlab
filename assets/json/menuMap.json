@@ -67,12 +67,6 @@
 				"sub":[
 					{
 						"type":"button",
-						"title":"schedule",
-						"title_tw":"工作時間規劃",
-						"sub":null
-					},
-					{
-						"type":"button",
 						"title":"霄晗又如組",
 						"title_tw":"霄晗又如組",
 						"sub":null
@@ -81,12 +75,6 @@
 						"type":"button",
 						"title":"嘉隆組",
 						"title_tw":"嘉隆組",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"承恩君恆組",
-						"title_tw":"承恩君恆組",
 						"sub":null
 					}
 				]
@@ -146,13 +134,6 @@
 				"sub":null
 			},
 
-				{
-					"type":"divider",
-					"title":null,
-					"title_tw":null,
-					"sub":null
-				},
-
 			{
 				"type":"dropdown",
 				"title":"theory",
@@ -204,6 +185,19 @@
 				"title_tw":"多媒體",
 				"sub":null
 			},
+			{
+				"type":"dropdown",
+				"title":"task",
+				"title_tw":"理論",
+				"sub":[
+					{
+						"type":"button",
+						"title":"opencv",
+						"title_tw":"opencv",
+						"sub":null
+					}
+				]
+			},
 
 				{
 					"type":"divider",
@@ -214,9 +208,22 @@
 
 			{
 				"type":"topic",
-				"title":"data structure",
-				"title_tw":"資料結構",
+				"title":"prototype",
+				"title_tw":"策展",
 				"sub":null
+			},
+			{
+				"type":"dropdown",
+				"title":"curation",
+				"title_tw":"策線上展",
+				"sub":[
+					{
+						"type":"button",
+						"title":"archi2019",
+						"title_tw":"prototype",
+						"sub":null
+					}
+				]
 			}
 		]
 	},
