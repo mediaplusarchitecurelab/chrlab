@@ -144,6 +144,24 @@
 						"title":"particles",
 						"title_tw":"粒子",
 						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"robotarmjs",
+						"title_tw":"手臂",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"prototypingjs",
+						"title_tw":"板狀",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"weavingjs",
+						"title_tw":"編織",
+						"sub":null
 					}
 				]
 			},
