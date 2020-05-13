@@ -144,31 +144,7 @@
 						"title":"particles",
 						"title_tw":"粒子",
 						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"rhinojs",
-						"title_tw":"犀牛插件",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"prototypingjs",
-						"title_tw":"原型插件",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"weavingjs",
-						"title_tw":"編織插件",
-						"sub":null
-					},
-                    {
-                        "type":"button",
-                        "title":"robotarmjs",
-                        "title_tw":"手臂插件",
-                        "sub":null
-                    }
+					}
 				]
 			},
 
