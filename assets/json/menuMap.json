@@ -18,26 +18,7 @@
 			},
 			{
 				"type":"dropdown",
-				"title":"2018",
-				"title_tw":"2018",
-				"sub":[
-					{
-						"type":"button",
-						"title":"architecture",
-						"title_tw":"建築",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"media",
-						"title_tw":"多媒體",
-						"sub":null
-					}
-				]
-			},
-			{
-				"type":"dropdown",
-				"title":"2019 ouroboros",
+				"title":"2019ouroboros",
 				"title_tw":"IDF國際工作坊",
 				"sub":[
 					{
@@ -62,18 +43,18 @@
 			},
 			{
 				"type":"dropdown",
-				"title":"2019 archi",
-				"title_tw":"2019 建築系",
+				"title":"2019archi",
+				"title_tw":"2019建築系",
 				"sub":[
 					{
 						"type":"button",
-						"title":"霄晗又如組",
+						"title":"teamB",
 						"title_tw":"霄晗又如組",
 						"sub":null
 					},
 					{
 						"type":"button",
-						"title":"嘉隆組",
+						"title":"teamA",
 						"title_tw":"嘉隆組",
 						"sub":null
 					}
@@ -93,12 +74,12 @@
 			},
 			{
 				"type":"dropdown",
-				"title":"2020 workshops",
+				"title":"2020workshops",
 				"title_tw":"2020工作坊",
 				"sub":[
 					{
 						"type":"button",
-						"title":"fabworkshop 01",
+						"title":"fabworkshop01",
 						"title_tw":"構築工作坊一",
 						"sub":null
 					}
@@ -107,7 +88,7 @@
 			},
 			{
 				"type":"dropdown",
-				"title":"2020 media",
+				"title":"2020media",
 				"title_tw":"2020 數媒系",
 				"sub":[
 					{
@@ -188,6 +169,12 @@
 						"type":"button",
 						"title":"opencv",
 						"title_tw":"opencv",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"artask",
+						"title_tw":"ar測試",
 						"sub":null
 					}
 				]
