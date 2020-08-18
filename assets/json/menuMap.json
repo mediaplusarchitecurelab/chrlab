@@ -99,6 +99,19 @@
 					}
 					
 				]
+			},
+			{
+				"type":"dropdown",
+				"title":"2020ouroboros",
+				"title_tw":"IDF國際工作坊",
+				"sub":[
+					{
+						"type":"button",
+						"title":"holoconstruct",
+						"title_tw":"工作組",
+						"sub":null
+					}
+				]
 			}
 		]
 	},
@@ -136,6 +149,12 @@
 						"type":"button",
 						"title":"prototypingjs",
 						"title_tw":"板狀",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"prototypingjsII",
+						"title_tw":"板狀II",
 						"sub":null
 					},
 					{
