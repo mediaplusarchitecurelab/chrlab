@@ -211,19 +211,6 @@
 				"title":"prototype",
 				"title_tw":"策展",
 				"sub":null
-			},
-			{
-				"type":"dropdown",
-				"title":"curation",
-				"title_tw":"策線上展",
-				"sub":[
-					{
-						"type":"button",
-						"title":"archi2019",
-						"title_tw":"prototype",
-						"sub":null
-					}
-				]
 			}
 		]
 	},
