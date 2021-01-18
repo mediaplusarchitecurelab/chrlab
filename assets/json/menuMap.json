@@ -162,6 +162,12 @@
 						"title":"weavingjs",
 						"title_tw":"編織",
 						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"storagestorejs",
+						"title_tw":"智慧倉儲",
+						"sub":null
 					}
 				]
 			},
