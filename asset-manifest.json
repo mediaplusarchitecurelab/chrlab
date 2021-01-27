@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/chrlab/static/css/main.71c9df3a.chunk.css",
-    "main.js": "/chrlab/static/js/main.110fe23a.chunk.js",
-    "main.js.map": "/chrlab/static/js/main.110fe23a.chunk.js.map",
-    "runtime~main.js": "/chrlab/static/js/runtime~main.1fe7a24c.js",
-    "runtime~main.js.map": "/chrlab/static/js/runtime~main.1fe7a24c.js.map",
-    "static/css/2.753dc94e.chunk.css": "/chrlab/static/css/2.753dc94e.chunk.css",
-    "static/js/2.1fe445c5.chunk.js": "/chrlab/static/js/2.1fe445c5.chunk.js",
-    "static/js/2.1fe445c5.chunk.js.map": "/chrlab/static/js/2.1fe445c5.chunk.js.map",
-    "index.html": "/chrlab/index.html",
-    "precache-manifest.4ee0b6858685c91088b10546eac25fd2.js": "/chrlab/precache-manifest.4ee0b6858685c91088b10546eac25fd2.js",
-    "service-worker.js": "/chrlab/service-worker.js",
-    "static/css/2.753dc94e.chunk.css.map": "/chrlab/static/css/2.753dc94e.chunk.css.map",
-    "static/css/main.71c9df3a.chunk.css.map": "/chrlab/static/css/main.71c9df3a.chunk.css.map",
-    "static/media/App.css": "/chrlab/static/media/RobotoCondensed-LightItalic.9f98bc7a.ttf",
-    "static/media/semantic.min.css": "/chrlab/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/chrlab/static/media/logo.5d5d9eef.svg",
-    "static/media/slick-theme.css": "/chrlab/static/media/slick.f97e3bbf.svg"
+    "main.css": "/CFRLab/static/css/main.6e5a05a6.chunk.css",
+    "main.js": "/CFRLab/static/js/main.5505e9f4.chunk.js",
+    "main.js.map": "/CFRLab/static/js/main.5505e9f4.chunk.js.map",
+    "runtime~main.js": "/CFRLab/static/js/runtime~main.7ff3e9b7.js",
+    "runtime~main.js.map": "/CFRLab/static/js/runtime~main.7ff3e9b7.js.map",
+    "static/css/2.92231d7f.chunk.css": "/CFRLab/static/css/2.92231d7f.chunk.css",
+    "static/js/2.76b4a57b.chunk.js": "/CFRLab/static/js/2.76b4a57b.chunk.js",
+    "static/js/2.76b4a57b.chunk.js.map": "/CFRLab/static/js/2.76b4a57b.chunk.js.map",
+    "index.html": "/CFRLab/index.html",
+    "precache-manifest.b170e985d974c4ae99385d0e04e65b20.js": "/CFRLab/precache-manifest.b170e985d974c4ae99385d0e04e65b20.js",
+    "service-worker.js": "/CFRLab/service-worker.js",
+    "static/css/2.92231d7f.chunk.css.map": "/CFRLab/static/css/2.92231d7f.chunk.css.map",
+    "static/css/main.6e5a05a6.chunk.css.map": "/CFRLab/static/css/main.6e5a05a6.chunk.css.map",
+    "static/media/App.css": "/CFRLab/static/media/RobotoCondensed-LightItalic.9f98bc7a.ttf",
+    "static/media/semantic.min.css": "/CFRLab/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/CFRLab/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/CFRLab/static/media/slick.f97e3bbf.svg"
   }
 }
