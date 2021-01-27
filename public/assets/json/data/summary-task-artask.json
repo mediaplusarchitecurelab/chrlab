@@ -1,0 +1,16 @@
+[
+	{
+		"type":"lrpanel",
+		"title":"artask",
+		"title_tw":"AR測試",
+		"pic":[
+			"assets/image/summary/task/artask/artask_0.png"
+		],
+		"content":
+			[
+				"Please scan the QR code on the left side with your mobile device.",
+				" This is an AR task for workshop ourobos 2020, the goal of this task is to provide a system of interactive prototype workflow for digital fabrication. The code is composed by chifu and cfrlab and developed with Javascript-based Augmented Reality (AR) library, AR.js., and Advanced three.js.",
+				"Viewing this AR examples will require a device with a camera and one of the Hiro marker pattern (either printed or displayed on a second device)."
+			]
+	}
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>CFRLab</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script type="x-shader/x-vertex" id="vertexshader">
+      attribute float scale;
+      varying vec3 vColor;
+      void main() {
+          vColor = color;
+          vec4 mvPosition = modelViewMatrix * vec4( position, 1.0 );
+          gl_PointSize = scale * ( 300.0 / - mvPosition.z );
+          gl_Position = projectionMatrix * mvPosition;
+      }
+    </script>
+
+    <script type="x-shader/x-fragment" id="fragmentshader">
+      varying vec3 vColor;
+      uniform sampler2D texture;
+      void main() {
+          //if ( length( gl_PointCoord - vec2( 0.5, 0.5 ) ) > 0.475 ) discard;
+          
+          gl_FragColor = vec4( vColor, 0.75 );
+          gl_FragColor = gl_FragColor * texture2D( texture, gl_PointCoord );
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿增加 theory 底下的 xxxxjs 項目
+1   public/assets/json/menuMap.json
+    ==> [加入] json 項目 = xxxxjs
+2   public/assets/json/data/
+    A ==>   [增加檔案] json 檔案名 = summary-theory-xxxxjs.json
+    B ==>   在 summary-theory-xxxxjs.json 中
+	    [修正] "title":"xxxxjs",
+3   src/component/panelComponent/Canvas 
+    [增加資料夾] threejs 資料夾名 =  Xxxxjs
+4   public/assets/Xxxxjs
+    [增加模型物件] model.obj
+5   src/component/panelComponent/panelComponent.js
+    A ==>   在 // import 底下
+            [加入] import CanvasXxxxjsComponent from './Canvas/Xxxxjs';
+    B ==>   在 // Line207: ===================canvasComponent======================== 底下
+            [加入] else if (val.title === "Xxxxjs") panelitem.push(<CanvasXxxxjsComponent activeItem={val.title} key={val.title}/>);

@@ -1,0 +1,226 @@
+[
+    {
+        "sub": null,
+        "title": "about",
+        "title_tw": "關於",
+        "type": "button"
+    },
+    {
+        "sub": [
+            {
+                "sub": null,
+                "title": "previous",
+                "title_tw": "前期",
+                "type": "topic"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "architecture",
+                        "title_tw": "建築",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "media",
+                        "title_tw": "多媒體",
+                        "type": "button"
+                    }
+                ],
+                "title": "2018",
+                "title_tw": "2018",
+                "type": "dropdown"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "about",
+                        "title_tw": "循環法則",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "precedents",
+                        "title_tw": "先例",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "preliminary",
+                        "title_tw": "工作組",
+                        "type": "button"
+                    }
+                ],
+                "title": "2019 ouroboros",
+                "title_tw": "IDF國際工作坊",
+                "type": "dropdown"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "schedule",
+                        "title_tw": "工作時間規劃",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "霄晗又如組",
+                        "title_tw": "霄晗又如組",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "嘉隆組",
+                        "title_tw": "嘉隆組",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "承恩君恆組",
+                        "title_tw": "承恩君恆組",
+                        "type": "button"
+                    }
+                ],
+                "title": "2019 archi",
+                "title_tw": "2019 建築系",
+                "type": "dropdown"
+            },
+            {
+                "sub": null,
+                "title": null,
+                "title_tw": null,
+                "type": "divider"
+            },
+            {
+                "sub": null,
+                "title": "2020",
+                "title_tw": "進行中",
+                "type": "topic"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "fabworkshop 01",
+                        "title_tw": "構築工作坊一",
+                        "type": "button"
+                    }
+                ],
+                "title": "2020 workshops",
+                "title_tw": "2020工作坊",
+                "type": "dropdown"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "basicpages",
+                        "title_tw": "基本互動實作",
+                        "type": "button"
+                    }
+                ],
+                "title": "2020 media",
+                "title_tw": "2020 數媒系",
+                "type": "dropdown"
+            }
+        ],
+        "title": "projects",
+        "title_tw": "作品",
+        "type": "dropdown"
+    },
+    {
+        "sub": [
+            {
+                "sub": null,
+                "title": "frabrication",
+                "title_tw": "構築",
+                "type": "topic"
+            },
+            {
+                "sub": null,
+                "title": null,
+                "title_tw": null,
+                "type": "divider"
+            },
+            {
+                "sub": [
+                    {
+                        "sub": null,
+                        "title": "particles",
+                        "title_tw": "粒子",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "rhinojs",
+                        "title_tw": "犀牛插件",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "prototypingjs",
+                        "title_tw": "原型插件",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "weavingjs",
+                        "title_tw": "編織插件",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "robotarmjs",
+                        "title_tw": "手臂插件",
+                        "type": "button"
+                    },
+                    {
+                        "sub": null,
+                        "title": "tensorflow",
+                        "title_tw": "tensorflowtask",
+                        "type": "button"
+                    }
+                ],
+                "title": "theory",
+                "title_tw": "理論",
+                "type": "dropdown"
+            },
+            {
+                "sub": null,
+                "title": null,
+                "title_tw": null,
+                "type": "divider"
+            },
+            {
+                "sub": null,
+                "title": "media",
+                "title_tw": "多媒體",
+                "type": "topic"
+            },
+            {
+                "sub": null,
+                "title": null,
+                "title_tw": null,
+                "type": "divider"
+            },
+            {
+                "sub": null,
+                "title": "data structure",
+                "title_tw": "資料結構",
+                "type": "topic"
+            }
+        ],
+        "title": "summary",
+        "title_tw": "工作日誌",
+        "type": "dropdown"
+    },
+    {
+        "sub": null,
+        "title": "resource",
+        "title_tw": "相關資訊",
+        "type": "button"
+    }
+]
