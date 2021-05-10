@@ -48,13 +48,13 @@
 				"sub":[
 					{
 						"type":"button",
-						"title":"teamB",
+						"title":"teamA",
 						"title_tw":"霄晗又如組",
 						"sub":null
 					},
 					{
 						"type":"button",
-						"title":"teamA",
+						"title":"teamB",
 						"title_tw":"嘉隆組",
 						"sub":null
 					}
@@ -109,6 +109,25 @@
 						"type":"button",
 						"title":"holoconstruct",
 						"title_tw":"工作組",
+						"sub":null
+					}
+				]
+			},
+			{
+				"type":"dropdown",
+				"title":"2020archi",
+				"title_tw":"2020建築系",
+				"sub":[
+					{
+						"type":"button",
+						"title":"teamA",
+						"title_tw":"詩昊湘頤組",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"teamB",
+						"title_tw":"洪熙柏侑組",
 						"sub":null
 					}
 				]
@@ -214,9 +233,34 @@
 
 			{
 				"type":"topic",
-				"title":"prototype",
+				"title":"logging",
 				"title_tw":"策展",
 				"sub":null
+			},
+			{
+				"type":"dropdown",
+				"title":"2020logging",
+				"title_tw":"工作紀錄",
+				"sub":[
+					{
+						"type":"button",
+						"title":"archiTeamA",
+						"title_tw":"archiTeamA",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"archiTeamB",
+						"title_tw":"archiTeamB",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"archiTeamC",
+						"title_tw":"archiTeamC",
+						"sub":null
+					}
+				]
 			}
 		]
 	},
